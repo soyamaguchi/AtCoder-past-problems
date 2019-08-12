@@ -1,6 +1,6 @@
-# atcoder-past-problems
+# AtCoder-past-problems
 
-atcoderの各種コンテストの過去問題を解いたプログラム
+AtCoderの各種コンテストの過去問題を解いたプログラム
 
 * 基本Javaで実施。
 * コンテストの過去問や直近に実施したもの。
